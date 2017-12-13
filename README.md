@@ -1,8 +1,13 @@
-# Brunch app
+# Brunch + React + Babel/ES6
 
-This is a HTML5 application, built with [Brunch](http://brunch.io).
+This is a modern JS skeleton with React for [Brunch](http://brunch.io).
+
+## Installation
+
+Clone this repo manually or use `brunch new dir -s brunch/with-react`
 
 ## Getting started
+
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
     * [Brunch](http://brunch.io): `npm install -g brunch`
